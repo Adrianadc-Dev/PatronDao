@@ -1,0 +1,4 @@
+[2024-08-10 11:58:29] [ INFO ] [DaoH2Medicamento:41] [guardar] medicamento persistido Medicamento{id=4, codigo=555, nombre='Loratadina', laboratorio='Bayer', cantidad=12, precio=250.0}
+[2024-08-10 12:04:57] [ INFO ] [DaoH2Medicamento:119] [buscarTodos] Medicamento{id=1, codigo=123, nombre='IBUPIRAC', laboratorio='BAYER', cantidad=10, precio=350.0}
+[2024-08-10 12:04:57] [ INFO ] [DaoH2Medicamento:119] [buscarTodos] Medicamento{id=2, codigo=456, nombre='ACETAMINOFEM', laboratorio='ABOUT', cantidad=15, precio=400.0}
+[2024-08-10 12:04:57] [ INFO ] [DaoH2Medicamento:119] [buscarTodos] Medicamento{id=3, codigo=789, nombre='PARACETAMOL', laboratorio='PFIZER', cantidad=15, precio=150.0}
